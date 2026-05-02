@@ -18,6 +18,7 @@ Encerra o modo de voo.
 
 ```pawn
 #define FLY_SHOW_TUTORIAL <modo>
+#define FLY_IS_MOBILE (0 - não | 1 - sim)
 #include <fly>
 ```
 
