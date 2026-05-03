@@ -9,6 +9,8 @@
 #endif
 #define _FLY_INCLUDED
 
+#include <a_samp>
+
 #if !defined FLY_SHOW_TUTORIAL
     #error Define FLY_SHOW_TUTORIAL (0, 1 or 2) before including 'fly.inc'
 #endif
